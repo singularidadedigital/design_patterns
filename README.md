@@ -6,4 +6,3 @@ design patterns development
     Python
     Ruby
     Rust
-    
