@@ -1,7 +1,8 @@
 # design_patterns
 design patterns development
+
 ### Languages
-    Java 
+    Java
     Python
     Ruby
     Rust
